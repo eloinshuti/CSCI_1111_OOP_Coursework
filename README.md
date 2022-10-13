@@ -2,15 +2,15 @@
 ### Southwest Technical College
 ### CSCI 1111 - Object Oriented Programming
 
-##**Synopsis**
+## **Synopsis**
 ##### This is the final project for the Object Oriented Programming I (CSCI 1111) class. The project tests contains code that tests the user's knowledge of western geography 
 ##### by asking questions on the subject.
 ##### This repository will also be used to save coursework from the class.
 
-##**Motivation**
+## **Motivation**
 ##### I built this program to help the users learn and test their skills in geography especially of the western part of the world.
 
-##**Code Example**
+## **Code Example**
 ##### This is a code snippet of how the program requests the users input and analyzes it.
 ```
 		USA state = new USA();
@@ -52,10 +52,10 @@
 			System.out.println("You scored: " +  sum + "/" + countriesNA.getCountries().size() + "\n");
 		}
 ```
-##**Tests**
+## **Tests**
 ##### To run the test, the user has to select an option from the list provided and answer the questions prompted. If the user wants to quit or end the program there ##### are instructions provided to do so (Use JUnit4 to test).
 
 ![TestExample](https://user-images.githubusercontent.com/112521045/195716810-9751e1ec-be3e-4d79-b931-0c00784c7d16.PNG)
 
-##**Contributors**
+## **Contributors**
 ##### Use this program using JUnit4.
