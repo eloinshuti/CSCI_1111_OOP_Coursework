@@ -53,7 +53,8 @@
 		}
 ```
 ## **Tests**
-##### To run the test, the user has to select an option from the list provided and answer the questions prompted. If the user wants to quit or end the program there ##### are instructions provided to do so (Use JUnit4 to test).
+##### To run the test, the user has to select an option from the list provided and answer the questions prompted. If the user wants to quit or end the program there
+##### are instructions provided to do so (Use JUnit4 to test).
 
 ![TestExample](https://user-images.githubusercontent.com/112521045/195716810-9751e1ec-be3e-4d79-b931-0c00784c7d16.PNG)
 
